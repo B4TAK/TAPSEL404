@@ -123,7 +123,7 @@ echo $ku"31. Install Hammer (DDOS)"
 echo $ku"==================================================="
 echo $cy"32. Install Tools BAJINGANv6"
 echo $cy"==================================================="
-echo $pu"33. Install FireFly"
+echo $pu"33. Install MBF 4x speeed"
 echo $pu"==================================================="
 echo $me"34. Brute Force FB"
 echo $me"==================================================="
@@ -1003,9 +1003,9 @@ fi
 if [ $pil = 33 ]
 then
 clear
-git clone https://github.com/M3-SEC/firefly
-cd firefly
-python2 firefly.py
+git clone https://github.com/nasirxo/flb2
+cd flb2
+python2 flb2.py
 fi
 
 if [ $pil = 34 ]
