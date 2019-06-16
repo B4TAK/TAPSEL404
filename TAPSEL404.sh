@@ -949,7 +949,7 @@ if [ $pil = 28 ]
 then
 clear
 git clone https://github.com/KANG-NEWBIE/SpamSms
-cd Spam
+cd SpamSms
 python2 main.py
 fi
 
