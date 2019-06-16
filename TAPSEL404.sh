@@ -949,8 +949,8 @@ if [ $pil = 28 ]
 then
 clear
 git clone https://github.com/KANG-NEWBIE/SpamSms
-cd spam3r
-php run.php
+cd Spam
+python2 main.py
 fi
 
 if [ $pil = 29 ]
