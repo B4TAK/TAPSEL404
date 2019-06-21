@@ -10,13 +10,13 @@ ku='\033[33;1m' #kuning
 # Recode? Nggk punya Otak lu!!!
 #Capek anjing buat nya
 ulang = 'y'
-${kuning}Apakah sudah memiliki user dan pass? (y/n)"
+${ku}Apakah sudah memiliki user dan pass? (y/n)"
 read conf
 case $conf in
 y)clear
 ;;
 n)clear
-echo "silahkan hubungi wa ini 081930497165"
+echo "silahkan hubungi wa ini 081260032271"
 sleep 20
 clear
 exit
