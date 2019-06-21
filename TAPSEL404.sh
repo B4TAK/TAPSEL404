@@ -10,13 +10,13 @@ ku='\033[33;1m' #kuning
 # Recode? Nggk punya Otak lu!!!
 #Capek anjing buat nya
 ulang = 'y'
-${ku}Apakah sudah memiliki user dan pass? (y/n)"
+echo $ku"Apakah sudah memiliki user dan pass? (y/n)"
 read conf
 case $conf in
 y)clear
 ;;
 n)clear
-echo "silahkan hubungi wa ini 081260032271"
+echo $i"silahkan hubungi wa ini 081260032271"
 sleep 20
 clear
 exit
@@ -28,12 +28,12 @@ sleep 0.2
 clear
 ;;
 *)clear
-echo "${me}username : $usr"
-echo "${me}username salah!!!"
+echo $me"username : $usr"
+echo $me"username salah!!!"
 sleep 3
 sh run.sh
 esac
-echo "${i}username : $usr${kuning}"
+echo $i"username : $usr$ku"
 read -p "password : " pass;
 case $pass in
 TAPSEL404)
@@ -43,7 +43,7 @@ echo "${i}username : $usr"
 echo "${i}password : $pass"
 sleep 2
 ;;
-*)echo "${me}Passwor salah!!!"
+*)echo $me"Password salah!!!"
 sleep 2
 clear
 sh TAPSEL404.sh
