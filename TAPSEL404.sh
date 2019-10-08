@@ -1,4 +1,8 @@
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" 'pZmCi4iLu4CdphXRiUWbkAyboNWZKIXYlx2YK4WZoRnCdBibg0DIslGckAyWgYWaKoQampgchVGbjpQM3IjMzADM2ITM4IjN9UmbvhGc/QmblN3Lt92YuAHchNHdhh2dukGch9yL6MHc0RHagQnchR3cg0WYKYDIwVWZsNnCi4iLuAHcBNHdhh2Vgk2a1NXYtVWTg4WYrFEIhRmbBJSakAyboNWZKIDIwVWZsNnCi4iLuAHcBNHdhh2VgEWaWBibppXSikGJg8GajVmCyFWZsNmCuVGa0pQXgkHI9ACbpBHJgsFImlmCKsDbpBHIiAiPt0SLiACctACZhVmcKIyPp42L5hCIulmepBSY05WatVWbg4Wan5WagEGZuFGIoF2ahBXQiU3akAyboNWZK8GajVmCi4USNRUQg4USalEIOF0SIVFVVJUTF1EIJ5USgMFTP9EVg8LniDiIl1GJg8GajVmCvh2YlpgIrmo4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4BSp4ASp4Iep4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4BSp4ASp4BSp4qmo4ikGJg8GajVmCi02bj5CbpFWbnBkN2kGb1JXYtRXdhNXY1N3bopGI6ACIgACTJFUTHByvcKOIik3YkAyboNWZKICVZByMLRjRuIXTgoDIgwURO5UQINEI/yp4gISejRCIvh2YlpgIaREIBV1UPhkSgoDIgAiUPhEVVFEI/yp4gISejRCIvh2YlpgIrmo4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4BSp4ASp4Iep4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4ASp4BSp4ASp4BSp4ASp4BSp4ASp4BSp4BSp4ASp4BSp4qmo4ikGJg8GajVmCyFWZsNmCvh2YlpwZulmb1t2IgcSbxszMzs1MzADXn0TdrpAapRXdwNCIn0WM7czMbNzMww1J9UHcKgWYyVWbjAyJtFzOxMzWzMDMcdSPl1mCuFWejNCIn0WM7YzMbNzMww1J9k3YKUGbwJXdwNCIn0WM7UzMbNzMww1J9IXdwpwbql2IgcSbxsjMzs1MzADXn0TaKUncpJ2IgcSbxsDNzs1MzADXn0Taipgclt2Y1Z2I
-' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
-x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
-eval "$N0q$x$Hc2$rQW"
+echo "Script udah pindah"
+sleep 1
+echo "Tapi masih bisa di install kok"
+sleep 2
+echo "Silahkan Check di Channel Anonymous Central"
+echo "Sedang Membuka You Tube..."
+sleep 3
+am start https://youtu.be/rdzqkmFILXU
